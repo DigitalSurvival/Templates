@@ -1,7 +1,9 @@
-# xdg file templates
-This repository contains file templates for desktop environemnts following freedesktop.org's specification. Really these templates can be used with any desktop environment as long as they are installed into the correct location.
+xdg file templates
+-----
 
-Running the `install.sh` script will copy all templates into your user's `~/Template` folder.
+This repository contains file templates for desktop environments following freedesktop.org's specification. Really these templates can be used with any desktop environment as long as they are installed into the correct location.
+
+Running the `install.sh` script will copy all templates into your user's `~/Template` folder. Be aware it will clobber anything that was present in that directory.
 
 # todo
 
